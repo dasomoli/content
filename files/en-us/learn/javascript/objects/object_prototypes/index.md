@@ -10,24 +10,21 @@ slug: Learn/JavaScript/Objects/Object_prototypes
 <table>
   <tbody>
     <tr>
-      <th scope="row">Prerequisites:</th>
+      <th scope="row">사전 요구 사항:</th>
       <td>
-        Understanding JavaScript functions, familiarity with JavaScript basics
-        (see
-        <a href="/ko/docs/Learn/JavaScript/First_steps">First steps</a> and
+        JavaScript 함수에 대한 이해, JavaScript 기본 사항
+        (<a href="/ko/docs/Learn/JavaScript/First_steps">첫 단계</a> 및
         <a href="/ko/docs/Learn/JavaScript/Building_blocks"
-          >Building blocks</a
-        >), and OOJS basics (see
-        <a href="/ko/docs/Learn/JavaScript/Objects/Basics"
-          >Introduction to objects</a
-        >).
+          >빌딩 블록</a
+        > 참조), OOJS 기본 사항(<a href="/ko/docs/Learn/JavaScript/Objects/Basics"
+          >객체 소개</a
+        >참조)에 익숙해야 합니다.
       </td>
     </tr>
     <tr>
-      <th scope="row">Objective:</th>
+      <th scope="row">목표:</th>
       <td>
-        To understand JavaScript object prototypes, how prototype chains work,
-        and how to set the prototype of an object.
+        자바스크립트 객체 프로토타입, 프로토타입 체인의 작동 방식, 객체의 프로토타입을 설정하는 방법을 이해합니다.
       </td>
     </tr>
   </tbody>
