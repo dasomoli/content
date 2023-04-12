@@ -9,7 +9,6 @@ slug: Learn/Tools_and_testing/Understanding_client-side_tools
 
 ## 전제 조건
 
-You should really learn the basics of the core [HTML](/ko/docs/Learn/HTML), [CSS](/ko/docs/Learn/CSS), and [JavaScript](/ko/docs/Learn/JavaScript) languages first before attempting to use the tools detailed here.
 여기에 설명된 도구를 사용하기 전에 먼저 핵심 [HTML](/ko/docs/Learn/HTML), [CSS](/ko/docs/Learn/CSS) 및 [JavaScript](/ko/docs/Learn/JavaScript) 언어의 기초를 익혀야 합니다.
 
 > **Callout:**
